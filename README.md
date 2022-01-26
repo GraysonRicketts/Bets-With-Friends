@@ -9,6 +9,7 @@
   - [Technologically](#technologically)
   - [Product](#product)
   - [Process](#process)
+- [Links to original repos with git history](#links-to-original-repos-with-git-history)
 
 ## Function of app
 My friends and I were sitting around the bar and making bets on plays during the Bears game. I thought it would be fun to track these bets and gamify the experience of who wins the most bets between friends.
@@ -44,3 +45,7 @@ I worked on this project from Aug 2021 through January 2022. After an MVP releas
 * Trello kanban board helped track everything
 * Markdown notes for the win
 ![](.content/trello-bwf.png)
+
+## Links to original repos with git history
+- [api](https://github.com/GraysonRicketts/Bets-With-Friends-Server)
+- [web-client](https://github.com/GraysonRicketts/Bets-With-Friends-Web)
